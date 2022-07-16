@@ -1,5 +1,5 @@
 # -Google-Trends-and-Data-Visualisation
- I Combine Google Trends with other Time Series Data(This data between 2011 to 2021). Let's investigate using 🐼 #pandas and #matplotlib in 🐍 #python :
+ I Combine Google Trends with other Time Series Data(This data between 2011 to 2021). Let's investigate using 🐼 Pandas and Matplotlib in 🐍 Python :
  
  1️⃣How search volume for "Bitcoin" relates to the price of Bitcoin 
  
